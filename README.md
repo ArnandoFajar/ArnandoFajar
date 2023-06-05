@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnandoFajar
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning CSS,HTML,PHP, any other.
+- 🌱 I’m currently learning CSS,HTML,PHP,Pyhton,Nodejs,Codeigniter4,Laravel,SQL any other.
 - 💞️ I’m looking to collaborate on Code
 
 <!---
